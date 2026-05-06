@@ -2,7 +2,7 @@
 
 ## Overview
 
-`raw_l2_syn` is a minimal C program that constructs and sends a handcrafted Ethernet frame containing an IPv4 TCP SYN packet over a raw Layer 2 socket.
+This is a minimal C program that constructs and sends a handcrafted Ethernet frame containing an IPv4 TCP SYN packet over a raw Layer 2 socket.
 
 ## Requirements
 
